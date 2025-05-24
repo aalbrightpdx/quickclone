@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/quickclone.png" alt="quickclone banner" width="40%">
+</p>  
+
 # 🌱 Quickclone
 
 🛠️ A smart, friendly CLI tool for cloning GitHub repositories — with optional virtualenv setup, project indexing, and interactive prompts.
